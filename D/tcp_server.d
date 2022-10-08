@@ -1,6 +1,5 @@
 import std.socket;
 import std.stdio;
-import std.string;
 
 void main() {
     auto addr = getAddress("127.0.0.1", 8080)[0];
