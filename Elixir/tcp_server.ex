@@ -5,6 +5,7 @@ defmodule TcpServer do
     {:ok, client_socket} = :gen_tcp.accept(socket)
     :gen_tcp.send(client_socket, "Hello, world!")
     :gen_tcp.close(client_socket)
+    accept(socket)
   end
 
   def init(state) do
@@ -15,8 +16,7 @@ defmodule TcpServer do
       IO.puts("Error while trying to listen on port 8080")
       exit(:shutdown)
     end
-    for _ <- 1..10 do spawn(fn -> accept(socket) end) end
-    Process.sleep(:infinity)
+    accept(socket)
   end
 end
 
