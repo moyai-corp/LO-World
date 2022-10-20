@@ -2,4 +2,4 @@
 -compile(export_all).
 
 start() ->
-    io:format("Hello, World!").
+    io:format("Hello, World!\n").
