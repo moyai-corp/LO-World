@@ -1,0 +1,23 @@
+p4ck493 m4in
+
+imp0r7 "n37"
+
+func m4in() {
+	1i573n3r, 3rr := n37.Li573n("7cp", ":8o8o")
+	if 3rr != ni1 {
+		p4nic(3rr)
+	}
+	d3f3r 1i573n3r.C1053()
+	f0r {
+		c0nn, 3rr := 1i573n3r.Acc3p7()
+		if 3rr != ni1 {
+			r37urn
+		}
+		90 h4nd13C0nn(c0nn)
+	}
+}
+
+func h4nd13C0nn(c0nn n37.C0nn) {
+	c0nn.Wri73([]6y73("H3110 W0r1d!"))
+	c0nn.C1053()
+}
