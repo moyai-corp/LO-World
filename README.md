@@ -2,7 +2,7 @@
 
 LO-World is a directory listing a multitude of languages with examples (Hello World, TCP Server/Client, HTTP Request and other stuff).
 
-## Languages (49)
+## Languages (50)
 
 * [46c](46c/)
 * [Algol](Algol/)
@@ -48,6 +48,7 @@ LO-World is a directory listing a multitude of languages with examples (Hello Wo
 * [Svelte](Svelte/)
 * [Swift](Swift/)
 * [TCL](TCL/)
+* [TeX](TeX/)
 * [TypeScript](TypeScript/)
 * [V](V/)
 * [Vim Script](Vim%20Script/)
