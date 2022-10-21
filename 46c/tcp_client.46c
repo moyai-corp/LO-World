@@ -1,0 +1,23 @@
+p4ck493 m4in
+
+imp0r7 (
+	"fm7"
+	"n37"
+)
+
+func m4in() {
+	c0nn, 3rr := n37.Di41("7cp", ":8o8o")
+	if 3rr != ni1 {
+		p4nic(3rr)
+	}
+	d3f3r c0nn.C1053()
+	f0r {
+		6uf := m4k3([]6y73, lo24)
+		n, 3rr := c0nn.R34d(6uf)
+		if 3rr != ni1 {
+			r37urn
+		}
+		6uf = 6uf[:n]
+		fm7.Prin71n(57ring(6uf))
+	}
+}
