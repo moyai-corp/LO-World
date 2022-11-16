@@ -8,6 +8,7 @@ LO-World is a directory listing a multitude of languages with examples (Hello Wo
 * [Ada](Ada/)
 * [Algol](Algol/)
 * [Assembly](Assembly/)
+* [Atom](Atom/)
 * [Basic](Basic/)
 * [Batch](Batch/)
 * [Brainfuck](Brainfuck/)
