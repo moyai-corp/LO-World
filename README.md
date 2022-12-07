@@ -2,7 +2,7 @@
 
 LO-World is a directory listing a multitude of languages with examples (Hello World, TCP Server/Client, HTTP Request and other stuff).
 
-## Languages (80)
+## Languages (81)
 
 * [46c](46c/)
 * [Ada](Ada/)
@@ -63,6 +63,7 @@ LO-World is a directory listing a multitude of languages with examples (Hello Wo
 * [R](R/)
 * [Raku](Raku/)
 * [Razor](Razor/)
+* [Rebol](Rebol/)
 * [Ruby](Ruby/)
 * [Rust](Rust/)
 * [Salmon](Salmon/)
